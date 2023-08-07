@@ -1,2 +1,2 @@
-# studies
-Repository to practice and study
+# Studies
+Repository to practice and study.
